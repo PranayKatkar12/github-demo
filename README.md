@@ -1,3 +1,4 @@
 # github-demo
+
 This is my first git repository
-Author - Pranay Katkar
+Author - Pranay G Katkar
